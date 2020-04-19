@@ -1,0 +1,1 @@
+This is a repertory to learn how to use git and github
